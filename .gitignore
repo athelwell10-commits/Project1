@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Expo cache files
+.expo*
+
+# Build artifacts
+build/
+
+# Environment files
+.env*
+
+# IDE Configuration
+.vscode/
+.idea/
+.DS_Store
